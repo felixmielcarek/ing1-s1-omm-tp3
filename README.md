@@ -16,7 +16,7 @@ pip install numpy trimesh raylib
 Run exercices:
 
 ```bash
-python exoA.py
+python tp3_exoA.py
 ```
 
 Replace `A` by the number of the target exercice.
@@ -26,3 +26,7 @@ Replace `A` by the number of the target exercice.
 ## Exercice 1
 
 ![exercice 1 result image](./documentation/exo1.png)
+
+## Exercice 2
+
+![exercice 2 result video](./documentation/exo2.mp4)
